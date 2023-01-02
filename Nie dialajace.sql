@@ -1,0 +1,11 @@
+
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (11, 212, 'Robotnicza 11 Koszalin', 44.50)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (12, 77, 'Owocowa 1 Koszalin', 74.61)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (13, 32, 'Rejtana 11 Koszalin', 82.54)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (14, 112, 'Rejtana 8 Koszalin', 45.66)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (15, 2, 'Lechicka 11 Koszalin', 22.14)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (16, 14, 'Debowa 2 Koszalin', 99.25)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (17, 24, 'Bukowa 8 Koszalin', 52.54)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (18, 66, 'Olchowa 3 Koszalin', 77.52)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (19, 208, 'Zwyciestwa 11 Koszalin', 74.55)
+INSERT INTO DZIALKI (NR_Dzialki, NazwaD, Ulica, Pow) VALUES (20, 507, 'Rejtana 9 Koszalin', 84.74)

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEOAPP0711", "GEOAPP0711\GEOAPP0711.csproj", "{18FF5AA9-8FF7-45E9-90F6-EF8574882CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEOAPP0711.Tests", "GEOAPP0711.Tests\GEOAPP0711.Tests.csproj", "{3C774A8A-91B0-4740-BD8C-1323EE258146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FF5AA9-8FF7-45E9-90F6-EF8574882CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FF5AA9-8FF7-45E9-90F6-EF8574882CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FF5AA9-8FF7-45E9-90F6-EF8574882CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FF5AA9-8FF7-45E9-90F6-EF8574882CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C774A8A-91B0-4740-BD8C-1323EE258146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C774A8A-91B0-4740-BD8C-1323EE258146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C774A8A-91B0-4740-BD8C-1323EE258146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C774A8A-91B0-4740-BD8C-1323EE258146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
